@@ -1,0 +1,801 @@
+{
+  "careers": [
+    {
+      "index": 0,
+      "name": "会计师",
+      "credit": {"min": 30,"max": 70},
+      "cAttr": "教育*4",
+      "skills":[{"name": "会计"},{"name": "法律"},{"name": "图书馆"},{"name": "聆听"},{"name": "说服"},{"name": "侦查"},{"name": "任意"},{"name": "任意"}]
+    },
+    {
+      "index": 1,
+      "name": "杂技演员",
+      "credit": {"min": 9,"max": 20},
+      "cAttr": "教育*2+敏捷*2",
+      "skills":[{"name": "攀爬"},{"name": "闪避"},{"name": "跳跃"},{"name": "投掷"},{"name": "侦查"},{"name": "游泳"},{"name": "任意"},{"name": "任意"}]
+    },
+    {
+      "index": 2,
+      "name": "戏剧演员",
+      "credit": {"min": 9,"max": 40},
+      "cAttr": "教育*2+外貌*2",
+      "skills":[{"name": "表演"},{"name": "乔装"},{"name": "格斗"},{"name": "历史"},{"name": "心理学"},{"name": "社交"},{"name": "社交"},{"name": "任意"}]
+    },
+    {
+      "index": 3,
+      "name": "电影演员",
+      "credit": {"min": 20,"max": 90},
+      "cAttr": "教育*2+外貌*2",
+      "skills":[{"name": "表演"},{"name": "乔装"},{"name": "汽车驾驶"},{"name": "心理学"},{"name": "社交"},{"name": "社交"},{"name": "任意"},{"name": "任意"}]
+    },
+    {
+      "index": 4,
+      "name": "中介调查员",
+      "credit": {"min": 20,"max": 45},
+      "cAttr": "教育*2+力量*2/敏捷*2",
+      "skills":[{"name": "射击"},{"name": "法律"},{"name": "格斗"},{"name": "图书馆"},{"name": "心理学"},{"name": "潜行"},{"name":"追踪"},{"name": "社交"}]
+    },
+    {
+      "index": 5,
+      "name": "精神病医生",
+      "credit": {"min": 10,"max": 60},
+      "cAttr": "教育*4",
+      "skills":[{"name": "法律"},{"name": "聆听"},{"name": "医学"},{"name": "语言"},{"name": "精神分析"},{"name": "心理学"},{"name": "生物学"},{"name": "化学"}]
+    },
+    {
+      "index": 6,
+      "name": "动物训练师",
+      "credit": {"min": 10,"max": 40},
+      "cAttr": "教育*2+外貌*2/意志*2",
+      "skills":[{"name": "跳跃"},{"name": "聆听"},{"name": "动物学"},{"name": "潜行"},{"name": "追踪"},{"name": "心理学"},{"name": "任意"},{"name": "任意"}]
+    },
+    {
+      "index": 7,
+      "name": "文物学家",
+      "credit": {"min": 30,"max": 70},
+      "cAttr": "教育*4",
+      "skills":[{"name": "估价"},{"name": "历史"},{"name": "图书馆"},{"name": "语言"},{"name": "侦查"},{"name": "技艺"},{"name": "社交"},{"name": "任意"}]
+    },
+    {
+      "index": 8,
+      "name": "古董商",
+      "credit": {"min": 30,"max": 50},
+      "cAttr": "教育*4",
+      "skills":[{"name": "会计"},{"name": "估价"},{"name": "汽车驾驶"},{"name": "历史"},{"name": "图书馆"},{"name": "导航"},{"name": "社交"},{"name": "社交"}]
+    },
+    {
+      "index": 9,
+      "name": "考古学家",
+      "credit": {"min": 10,"max": 40},
+      "cAttr": "教育*4",
+      "skills":[{"name": "估价"},{"name": "考古"},{"name": "历史"},{"name": "语言"},{"name": "图书馆"},{"name": "侦查"},{"name": "机械维修"},{"name": "科学"}]
+    },
+    {
+      "index": 10,
+      "name": "建筑师",
+      "credit": {"min": 30,"max": 70},
+      "cAttr": "教育*4",
+      "skills":[{"name": "会计"},{"name": "法律"},{"name": "母语"},{"name": "图书馆"},{"name": "说服"},{"name": "心理学"},{"name": "数学"},{"name": "技艺"}]
+    },
+    {
+      "index": 11,
+      "name": "艺术家",
+      "credit": {"min": 9,"max": 50},
+      "cAttr": "教育*2+敏捷*2/意志*2",
+      "skills":[{"name": "历史"},{"name": "语言"},{"name": "心理学"},{"name": "侦查"},{"name": "技艺"},{"name": "社交"},{"name": "任意"},{"name": "任意"}]
+    },
+    {
+      "index": 12,
+      "name": "精神病院护工",
+      "credit": {"min": 8,"max": 20},
+      "cAttr": "教育*2+力量*2/敏捷*2",
+      "skills":[{"name": "闪避"},{"name": "斗殴"},{"name": "急救"},{"name": "聆听"},{"name": "心理学"},{"name": "潜行"},{"name": "社交"},{"name": "社交"}]
+    },
+    {
+      "index": 13,
+      "name": "运动员",
+      "credit": {"min": 9,"max": 70},
+      "cAttr": "教育*2+力量*2/敏捷*2",
+      "skills":[{"name": "攀爬"},{"name": "跳跃"},{"name": "斗殴"},{"name": "骑乘"},{"name": "游泳"},{"name": "投掷"},{"name": "社交"},{"name": "任意"}]
+    },
+    {
+      "index": 14,
+      "name": "作家",
+      "credit": {"min": 9,"max": 30},
+      "cAttr": "教育*4",
+      "skills":[{"name": "历史"},{"name": "图书馆"},{"name": "神秘学"},{"name": "语言"},{"name": "母语"},{"name": "心理学"},{"name": "技艺"},{"name": "任意"}]
+    },
+    {
+      "index": 15,
+      "name": "酒保",
+      "credit": {"min": 8,"max": 25},
+      "cAttr": "教育*2+外貌*2",
+      "skills":[{"name": "会计"},{"name": "斗殴"},{"name": "聆听"},{"name": "心理学"},{"name": "侦查"},{"name": "社交"},{"name": "社交"},{"name": "任意"}]
+    },
+    {
+      "index": 16,
+      "name": "猎人",
+      "credit": {"min": 20,"max": 50},
+      "cAttr": "教育*2+力量*2/敏捷*2",
+      "skills":[{"name": "射击"},{"name": "聆听"},{"name": "侦查"},{"name": "导航"},{"name": "潜行"},{"name": "追踪"},{"name": "生存"},{"name": "科学"}]
+    },
+    {
+      "index": 17,
+      "name": "书商",
+      "credit": {"min": 20,"max": 40},
+      "cAttr": "教育*4",
+      "skills":[{"name": "会计"},{"name": "估价"},{"name": "汽车驾驶"},{"name": "历史"},{"name": "图书馆"},{"name": "母语"},{"name": "语言"},{"name": "社交"}]
+    },{
+      "index": 18,
+      "name": "赏金猎人",
+      "credit": {"min": 9,"max": 30},
+      "cAttr": "教育*2+力量*2/敏捷*2",
+      "skills":[{"name": "汽车驾驶"},{"name": "电气维修"},{"name": "格斗"},{"name": "法律"},{"name": "心理学"},{"name": "追踪"},{"name": "潜行"},{"name": "社交"}]
+    },
+    {
+      "index": 19,
+      "name": "拳击手",
+      "credit": {"min": 9,"max": 60},
+      "cAttr": "教育*2+力量*2",
+      "skills":[{"name": "闪避"},{"name": "斗殴"},{"name": "恐吓"},{"name": "跳跃"},{"name": "心理学"},{"name": "侦查"},{"name": "任意"},{"name": "任意"}]
+    },
+    {
+      "index": 20,
+      "name": "管家",
+      "credit": {"min": 9,"max": 40},
+      "cAttr": "教育*4",
+      "skills":[{"name": "会计"},{"name": "急救"},{"name": "聆听"},{"name": "语言"},{"name": "心理学"},{"name": "侦查"},{"name": "技艺"},{"name": "任意"}]
+    },
+    {
+      "index": 21,
+      "name": "神职人员",
+      "credit": {"min": 9,"max": 60},
+      "cAttr": "教育*4",
+      "skills":[{"name": "会计"},{"name": "历史"},{"name": "图书馆"},{"name": "聆听"},{"name": "心理学"},{"name": "语言"},{"name": "社交"},{"name": "任意"}]
+    },
+    {
+      "index": 22,
+      "name": "程序员",
+      "credit": {"min": 10,"max": 70},
+      "cAttr": "教育*4",
+      "skills":[{"name": "电脑"},{"name": "电气维修"},{"name": "电子学"},{"name": "图书馆"},{"name": "数学"},{"name": "侦查"},{"name": "任意"},{"name": "任意"}]
+    },
+    {
+      "index": 23,
+      "name": "黑客",
+      "credit": {"min": 10,"max": 70},
+      "cAttr": "教育*4",
+      "skills":[{"name": "电脑"},{"name": "电气维修"},{"name": "电子学"},{"name": "图书馆"},{"name": "侦查"},{"name": "社交"},{"name": "任意"},{"name": "任意"}]
+    },
+    {
+      "index": 24,
+      "name": "牛仔",
+      "credit": {"min": 9,"max": 20},
+      "cAttr": "教育*2+力量*2/敏捷*2",
+      "skills":[{"name": "闪避"},{"name": "射击"},{"name": "急救"},{"name": "跳跃"},{"name": "骑乘"},{"name": "投掷"},{"name": "追踪"},{"name": "生存"}]
+    },
+    {
+      "index": 25,
+      "name": "工匠",
+      "credit": {"min": 10,"max": 40},
+      "cAttr": "教育*2+敏捷*2",
+      "skills":[{"name": "会计"},{"name": "机械维修"},{"name": "侦查"},{"name": "巧手"},{"name": "社交"},{"name": "社交"},{"name": "任意"},{"name": "任意"}]
+    },
+    {
+      "index": 26,
+      "name": "刺客",
+      "credit": {"min": 30,"max": 60},
+      "cAttr": "教育*2+力量*2/敏捷*2",
+      "skills":[{"name": "乔装"},{"name": "电气维修"},{"name": "格斗"},{"name": "射击"},{"name": "开锁"},{"name": "机械维修"},{"name": "潜行"},{"name": "心理学"}]
+    },
+    {
+      "index": 27,
+      "name": "劫匪",
+      "credit": {"min": 5,"max": 75},
+      "cAttr": "教育*2+力量*2/敏捷*2",
+      "skills":[{"name": "汽车驾驶"},{"name": "机械维修"},{"name": "格斗"},{"name": "射击"},{"name": "恐吓"},{"name": "开锁"},{"name": "重机操作"},{"name": "任意"}]
+    },
+    {
+      "index": 28,
+      "name": "暴徒",
+      "credit": {"min": 5,"max": 30},
+      "cAttr": "教育*2+力量*2",
+      "skills":[{"name": "汽车驾驶"},{"name": "格斗"},{"name": "射击"},{"name": "潜行"},{"name": "心理学"},{"name": "侦查"},{"name": "社交"},{"name": "社交"}]
+    },
+    {
+      "index": 29,
+      "name": "窃贼",
+      "credit": {"min": 5,"max": 40},
+      "cAttr": "教育*2+敏捷*2",
+      "skills":[{"name": "估价"},{"name": "攀爬"},{"name": "机械维修"},{"name": "聆听"},{"name": "开锁"},{"name": "巧手"},{"name": "潜行"},{"name": "侦查"}]
+    },
+    {
+      "index": 30,
+      "name": "骗子",
+      "credit": {"min": 10,"max": 65},
+      "cAttr": "教育*2+敏捷*2",
+      "skills":[{"name": "估价"},{"name": "表演"},{"name": "法律"},{"name": "聆听"},{"name": "心理学"},{"name": "巧手"},{"name": "社交"},{"name": "社交"}]
+    },
+    {
+      "index": 31,
+      "name": "独行罪犯",
+      "credit": {"min": 5,"max": 65},
+      "cAttr": "教育*2+外貌*2/敏捷*2",
+      "skills":[{"name": "乔装"},{"name": "估价"},{"name": "格斗"},{"name": "机械维修"},{"name": "心理学"},{"name": "侦查"},{"name": "潜行"},{"name": "社交"}]
+    },
+    {
+      "index": 32,
+      "name": "女飞贼",
+      "credit": {"min": 10,"max": 80},
+      "cAttr": "教育*2+外貌*2",
+      "skills":[{"name": "斗殴"},{"name": "汽车驾驶"},{"name": "聆听"},{"name": "潜行"},{"name": "技艺"},{"name": "社交"},{"name": "社交"},{"name": "任意"}]
+    },
+    {
+      "index": 33,
+      "name": "赃物贩子",
+      "credit": {"min": 20,"max": 40},
+      "cAttr": "教育*2+外貌*2",
+      "skills":[{"name": "会计"},{"name": "估价"},{"name": "伪造"},{"name": "历史"},{"name": "图书馆"},{"name": "侦查"},{"name": "社交"},{"name": "任意"}]
+    },
+    {
+      "index": 34,
+      "name": "伪造者",
+      "credit": {"min": 20,"max": 60},
+      "cAttr": "教育*4",
+      "skills":[{"name": "会计"},{"name": "估价"},{"name": "伪造"},{"name": "历史"},{"name": "图书馆"},{"name": "侦查"},{"name": "巧手"},{"name": "任意"}]
+    },
+    {
+      "index": 35,
+      "name": "走私犯",
+      "credit": {"min": 20,"max": 60},
+      "cAttr": "教育*2+外貌*2/敏捷*2",
+      "skills":[{"name": "射击"},{"name": "聆听"},{"name": "导航"},{"name": "驾驶"},{"name": "心理学"},{"name": "侦查"},{"name": "巧手"},{"name": "社交"}]
+    },
+    {
+      "index": 36,
+      "name": "混混",
+      "credit": {"min": 3,"max": 10},
+      "cAttr": "教育*2+力量*2/敏捷*2",
+      "skills":[{"name": "攀爬"},{"name": "格斗"},{"name": "射击"},{"name": "跳跃"},{"name": "巧手"},{"name": "潜行"},{"name": "投掷"},{"name": "社交"}]
+    },
+    {
+      "index": 37,
+      "name": "教团首领",
+      "credit": {"min": 30,"max": 60},
+      "cAttr": "教育*4",
+      "skills":[{"name": "会计"},{"name": "神秘学"},{"name": "心理学"},{"name": "侦查"},{"name": "社交"},{"name": "社交"},{"name": "任意"},{"name": "任意"}]
+    },
+    {
+      "index": 38,
+      "name": "除魅师",
+      "credit": {"min": 20,"max": 50},
+      "cAttr": "教育*4",
+      "skills":[{"name": "汽车驾驶"},{"name": "斗殴"},{"name": "历史"},{"name": "神秘学"},{"name": "心理学"},{"name": "潜行"},{"name": "社交"},{"name": "社交"}]
+    },
+    {
+      "index": 39,
+      "name": "设计师",
+      "credit": {"min": 20,"max": 60},
+      "cAttr": "教育*4",
+      "skills":[{"name": "会计"},{"name": "图书馆"},{"name": "机械维修"},{"name": "摄影"},{"name": "心理学"},{"name": "侦查"},{"name": "技艺"},{"name": "任意"}]
+    },
+    {
+      "index": 40,
+      "name": "业余艺术爱好者",
+      "credit": {"min": 50,"max": 99},
+      "cAttr": "教育*2+外貌*2",
+      "skills":[{"name": "射击"},{"name": "语言"},{"name": "骑乘"},{"name": "技艺"},{"name": "社交"},{"name": "任意"},{"name": "任意"},{"name": "任意"}]
+    },
+    {
+      "index": 41,
+      "name": "潜水员",
+      "credit": {"min": 9,"max": 30},
+      "cAttr": "教育*2+敏捷*2",
+      "skills":[{"name": "潜水"},{"name": "急救"},{"name": "机械维修"},{"name": "船只驾驶"},{"name": "生物学"},{"name": "侦查"},{"name": "游泳"},{"name": "任意"}]
+    },
+    {
+      "index": 42,
+      "name": "医生",
+      "credit": {"min": 30,"max": 80},
+      "cAttr": "教育*4",
+      "skills":[{"name": "急救"},{"name": "医学"},{"name": "拉丁语"},{"name": "心理学"},{"name": "生物学"},{"name": "药学"},{"name": "任意"},{"name": "任意"}]
+    },
+    {
+      "index": 43,
+      "name": "流浪汉",
+      "credit": {"min": 0,"max": 5},
+      "cAttr": "教育*2+外貌*2/敏捷*2/力量*2",
+      "skills":[{"name": "攀爬"},{"name": "跳跃"},{"name": "聆听"},{"name": "导航"},{"name": "潜行"},{"name": "社交"},{"name": "任意"},{"name": "任意"}]
+    },
+    {
+      "index": 44,
+      "name": "私人司机",
+      "credit": {"min": 10,"max": 40},
+      "cAttr": "教育*2+敏捷*2",
+      "skills":[{"name": "汽车驾驶"},{"name": "聆听"},{"name": "机械维修"},{"name": "导航"},{"name": "侦查"},{"name": "社交"},{"name": "社交"},{"name": "任意"}]
+    },
+    {
+      "index": 45,
+      "name": "司机",
+      "credit": {"min": 9,"max": 20},
+      "cAttr": "教育*2+力量*2/敏捷*2",
+      "skills":[{"name": "会计"},{"name": "汽车驾驶"},{"name": "聆听"},{"name": "机械维修"},{"name": "心理学"},{"name": "导航"},{"name": "社交"},{"name": "任意"}]
+    },
+    {
+      "index": 46,
+      "name": "出租车司机",
+      "credit": {"min": 9,"max": 30},
+      "cAttr": "教育*2+敏捷*2",
+      "skills":[{"name": "会计"},{"name": "汽车驾驶"},{"name": "电气维修"},{"name": "话术"},{"name": "机械维修"},{"name": "侦查"},{"name": "导航"},{"name": "任意"}]
+    },
+    {
+      "index": 47,
+      "name": "编辑",
+      "credit": {"min": 10,"max": 30},
+      "cAttr": "教育*4",
+      "skills":[{"name": "会计"},{"name": "历史"},{"name": "母语"},{"name": "侦查"},{"name": "心理学"},{"name": "社交"},{"name": "社交"},{"name": "任意"}]
+    },
+    {
+      "index": 48,
+      "name": "政府官员",
+      "credit": {"min": 50,"max": 90},
+      "cAttr": "教育*2+外貌*2",
+      "skills":[{"name": "魅惑"},{"name": "历史"},{"name": "恐吓"},{"name": "话术"},{"name": "聆听"},{"name": "母语"},{"name": "说服"},{"name": "心理学"}]
+    },
+    {
+      "index": 49,
+      "name": "工程师",
+      "credit": {"min": 30,"max": 60},
+      "cAttr": "教育*4",
+      "skills":[{"name": "制图"},{"name": "电气维修"},{"name": "图书馆"},{"name": "机械维修"},{"name": "重机操作"},{"name": "工程学"},{"name": "物理"},{"name": "任意"}]
+    },
+    {
+      "index": 50,
+      "name": "艺人",
+      "credit": {"min": 9,"max": 70},
+      "cAttr": "教育*2+外貌*2",
+      "skills":[{"name": "技艺"},{"name": "乔装"},{"name": "聆听"},{"name": "心理学"},{"name": "社交"},{"name": "社交"},{"name": "任意"},{"name": "任意"}]
+    },
+    {
+      "index": 51,
+      "name": "探险家",
+      "credit": {"min": 55,"max": 80},
+      "cAttr": "教育*2+外貌*2/敏捷*2",
+      "skills":[{"name": "攀爬"},{"name": "射击"},{"name": "历史"},{"name": "跳跃"},{"name": "导航"},{"name": "语言"},{"name": "生存"},{"name": "博物学"}]
+    },
+    {
+      "index": 52,
+      "name": "农民",
+      "credit": {"min": 9,"max": 30},
+      "cAttr": "教育*2+力量*2/敏捷*2",
+      "skills":[{"name": "耕作"},{"name": "汽车驾驶"},{"name": "机械维修"},{"name": "博物学"},{"name": "重机操作"},{"name": "追踪"},{"name": "社交"},{"name": "任意"}]
+    },
+    {
+      "index": 53,
+      "name": "司法人员",
+      "credit": {"min": 20,"max": 40},
+      "cAttr": "教育*4",
+      "skills":[{"name": "汽车驾驶"},{"name": "斗殴"},{"name": "射击"},{"name": "法律"},{"name": "说服"},{"name": "潜行"},{"name": "侦查"},{"name": "任意"}]
+    },
+    {
+      "index": 54,
+      "name": "消防员",
+      "credit": {"min": 9,"max": 30},
+      "cAttr": "教育*2+力量*2/敏捷*2",
+      "skills":[{"name": "闪避"},{"name": "攀爬"},{"name": "汽车驾驶"},{"name": "急救"},{"name": "跳跃"},{"name": "机械维修"},{"name": "重机操作"},{"name": "投掷"}]
+    },
+    {
+      "index": 55,
+      "name": "驻外记者",
+      "credit": {"min": 10,"max": 40},
+      "cAttr": "教育*4",
+      "skills":[{"name": "历史"},{"name": "语言"},{"name": "母语"},{"name": "聆听"},{"name": "心理学"},{"name": "社交"},{"name": "社交"},{"name": "任意"}]
+    },
+    {
+      "index": 56,
+      "name": "法医",
+      "credit": {"min": 40,"max": 60},
+      "cAttr": "教育*4",
+      "skills":[{"name": "拉丁语"},{"name": "图书馆"},{"name": "医学"},{"name": "说服"},{"name": "生物学"},{"name": "物证学"},{"name": "药学"},{"name": "侦查"}]
+    },
+    {
+      "index": 57,
+      "name": "赌徒",
+      "credit": {"min": 8,"max": 50},
+      "cAttr": "教育*2+外貌*2/敏捷*2",
+      "skills":[{"name": "会计"},{"name": "表演"},{"name": "巧手"},{"name": "聆听"},{"name": "心理学"},{"name": "侦查"},{"name": "社交"},{"name": "社交"}]
+    },
+    {
+      "index": 58,
+      "name": "黑帮头子",
+      "credit": {"min": 60,"max": 95},
+      "cAttr": "教育*2+外貌*2",
+      "skills":[{"name": "格斗"},{"name": "射击"},{"name": "法律"},{"name": "聆听"},{"name": "心理学"},{"name": "侦查"},{"name": "社交"},{"name": "社交"}]
+    },
+    {
+      "index": 59,
+      "name": "黑帮马仔",
+      "credit": {"min": 9,"max": 20},
+      "cAttr": "教育*2+力量*2/敏捷*2",
+      "skills":[{"name": "汽车驾驶"},{"name": "格斗"},{"name": "射击"},{"name": "心理学"},{"name": "社交"},{"name": "社交"},{"name": "任意"},{"name": "任意"}]
+    },
+    {
+      "index": 60,
+      "name": "贵族",
+      "credit": {"min": 40,"max": 90},
+      "cAttr": "教育*2+外貌*2",
+      "skills":[{"name": "历史"},{"name": "语言"},{"name": "导航"},{"name": "骑乘"},{"name": "步枪"},{"name": "技艺"},{"name": "社交"},{"name": "社交"}]
+    },
+    {
+      "index": 61,
+      "name": "游民",
+      "credit": {"min": 0,"max": 5},
+      "cAttr": "教育*2+外貌*2/敏捷*2",
+      "skills":[{"name": "攀爬"},{"name": "跳跃"},{"name": "聆听"},{"name": "巧手"},{"name": "导航"},{"name": "潜行"},{"name": "技艺"},{"name": "任意"}]
+    },
+    {
+      "index": 62,
+      "name": "勤杂工",
+      "credit": {"min": 6,"max": 15},
+      "cAttr": "教育*2+力量*2",
+      "skills":[{"name": "电气维修"},{"name": "斗殴"},{"name": "急救"},{"name": "聆听"},{"name": "心理学"},{"name": "机械维修"},{"name": "潜行"},{"name": "社交"}]
+    },
+    {
+      "index": 63,
+      "name": "调查记者",
+      "credit": {"min": 9,"max": 30},
+      "cAttr": "教育*4",
+      "skills":[{"name": "摄影"},{"name": "历史"},{"name": "母语"},{"name": "图书馆"},{"name": "心理学"},{"name": "社交"},{"name": "任意"},{"name": "任意"}]
+    },
+    {
+      "index": 64,
+      "name": "通讯记者",
+      "credit": {"min": 9,"max": 30},
+      "cAttr": "教育*4",
+      "skills":[{"name": "表演"},{"name": "聆听"},{"name": "历史"},{"name": "母语"},{"name": "心理学"},{"name": "侦查"},{"name": "潜行"},{"name": "社交"}]
+    },
+    {
+      "index": 65,
+      "name": "法官",
+      "credit": {"min": 50,"max": 80},
+      "cAttr": "教育*4",
+      "skills":[{"name": "历史"},{"name": "法律"},{"name": "恐吓"},{"name": "图书馆"},{"name": "心理学"},{"name": "聆听"},{"name": "母语"},{"name": "说服"}]
+    },
+    {
+      "index": 66,
+      "name": "实验室助理",
+      "credit": {"min": 10,"max": 30},
+      "cAttr": "教育*4",
+      "skills":[{"name": "图书馆"},{"name": "电气维修"},{"name": "语言"},{"name": "化学"},{"name": "侦查"},{"name": "科学"},{"name": "科学"},{"name": "任意"}]
+    },
+    {
+      "index": 67,
+      "name": "新手工人",
+      "credit": {"min": 9,"max": 30},
+      "cAttr": "教育*2+力量*2/敏捷*2",
+      "skills":[{"name": "汽车驾驶"},{"name": "电气维修"},{"name": "格斗"},{"name": "急救"},{"name": "机械维修"},{"name": "重机操作"},{"name": "投掷"},{"name": "任意"}]
+    },
+    {
+      "index": 68,
+      "name": "伐木工",
+      "credit": {"min": 9,"max": 30},
+      "cAttr": "教育*2+力量*2/敏捷*2",
+      "skills":[{"name": "闪避"},{"name": "攀爬"},{"name": "电锯"},{"name": "跳跃"},{"name": "急救"},{"name": "机械维修"},{"name": "植物学"},{"name": "投掷"}]
+    },
+    {
+      "index": 69,
+      "name": "矿工",
+      "credit": {"min": 9,"max": 30},
+      "cAttr": "教育*2+力量*2/敏捷*2",
+      "skills":[{"name": "攀爬"},{"name": "地质学"},{"name": "跳跃"},{"name": "机械维修"},{"name": "重机操作"},{"name": "侦查"},{"name": "潜行"},{"name": "任意"}]
+    },
+    {
+      "index": 70,
+      "name": "律师",
+      "credit": {"min": 30,"max": 80},
+      "cAttr": "教育*4",
+      "skills":[{"name": "会计"},{"name": "法律"},{"name": "图书馆"},{"name": "心理学"},{"name": "社交"},{"name": "社交"},{"name": "任意"},{"name": "任意"}]
+    },
+    {
+      "index": 71,
+      "name": "图书馆管理员",
+      "credit": {"min": 9,"max": 35},
+      "cAttr": "教育*4",
+      "skills":[{"name": "会计"},{"name": "图书馆"},{"name": "语言"},{"name": "母语"},{"name": "任意"},{"name": "任意"},{"name": "任意"},{"name": "任意"}]
+    },
+    {
+      "index": 72,
+      "name": "技师",
+      "credit": {"min": 9,"max": 40},
+      "cAttr": "教育*4",
+      "skills":[{"name": "技艺"},{"name": "攀爬"},{"name": "汽车驾驶"},{"name": "电气维修"},{"name": "机械维修"},{"name": "重机操作"},{"name": "任意"},{"name": "任意"}]
+    },
+    {
+      "index": 73,
+      "name": "军官",
+      "credit": {"min": 20,"max": 70},
+      "cAttr": "教育*2+力量*2/敏捷*2",
+      "skills":[{"name": "会计"},{"name": "射击"},{"name": "导航"},{"name": "急救"},{"name": "心理学"},{"name": "社交"},{"name": "社交"},{"name": "任意"}]
+    },
+    {
+      "index": 74,
+      "name": "传教士",
+      "credit": {"min": 0,"max": 30},
+      "cAttr": "教育*2+外貌*2",
+      "skills":[{"name": "急救"},{"name": "医学"},{"name": "博物学"},{"name": "机械维修"},{"name": "技艺"},{"name": "社交"},{"name": "任意"},{"name": "任意"}]
+    },
+    {
+      "index": 75,
+      "name": "登山家",
+      "credit": {"min": 30,"max": 60},
+      "cAttr": "教育*2+力量*2/敏捷*2",
+      "skills":[{"name": "攀爬"},{"name": "急救"},{"name": "聆听"},{"name": "跳跃"},{"name": "导航"},{"name": "语言"},{"name": "追踪"},{"name": "生存"}]
+    },
+    {
+      "index": 76,
+      "name": "博物馆管理员",
+      "credit": {"min": 10,"max": 30},
+      "cAttr": "教育*4",
+      "skills":[{"name": "会计"},{"name": "估价"},{"name": "考古"},{"name": "历史"},{"name": "图书馆"},{"name": "神秘学"},{"name": "语言"},{"name": "侦查"}]
+    },
+    {
+      "index": 77,
+      "name": "音乐家",
+      "credit": {"min": 9,"max": 30},
+      "cAttr": "教育*2+敏捷*2/意志*2",
+      "skills":[{"name": "演奏"},{"name": "聆听"},{"name": "心理学"},{"name": "社交"},{"name": "任意"},{"name": "任意"},{"name": "任意"},{"name": "任意"}]
+    },
+    {
+      "index": 78,
+      "name": "护士",
+      "credit": {"min": 9,"max": 30},
+      "cAttr": "教育*4",
+      "skills":[{"name": "急救"},{"name": "聆听"},{"name": "医学"},{"name": "生物学"},{"name": "心理学"},{"name": "侦查"},{"name": "化学"},{"name": "社交"}]
+    },
+    {
+      "index": 79,
+      "name": "神秘学家",
+      "credit": {"min": 9,"max": 65},
+      "cAttr": "教育*4",
+      "skills":[{"name": "人类学"},{"name": "历史"},{"name": "图书馆"},{"name": "神秘学"},{"name": "语言"},{"name": "天文学"},{"name": "社交"},{"name": "任意"}]
+    },
+    {
+      "index": 80,
+      "name": "旅行家",
+      "credit": {"min": 5,"max": 20},
+      "cAttr": "教育*2+力量*2/敏捷*2",
+      "skills":[{"name": "射击"},{"name": "急救"},{"name": "聆听"},{"name": "博物学"},{"name": "导航"},{"name": "侦查"},{"name": "追踪"},{"name": "生存"}]
+    },
+    {
+      "index": 81,
+      "name": "超心理学家",
+      "credit": {"min": 9,"max": 30},
+      "cAttr": "教育*4",
+      "skills":[{"name": "人类学"},{"name": "摄影"},{"name": "历史"},{"name": "图书馆"},{"name": "语言"},{"name": "心理学"},{"name": "神秘学"},{"name": "任意"}]
+    },
+    {
+      "index": 82,
+      "name": "药剂师",
+      "credit": {"min": 35,"max": 75},
+      "cAttr": "教育*4",
+      "skills":[{"name": "会计"},{"name": "急救"},{"name": "拉丁语"},{"name": "图书馆"},{"name": "药学"},{"name": "化学"},{"name": "心理学"},{"name": "社交"}]
+    },
+    {
+      "index": 83,
+      "name": "摄影师",
+      "credit": {"min": 10,"max": 30},
+      "cAttr": "教育*4",
+      "skills":[{"name": "摄影"},{"name": "心理学"},{"name": "化学"},{"name": "潜行"},{"name": "侦查"},{"name": "社交"},{"name": "任意"},{"name": "任意"}]
+    },
+    {
+      "index": 84,
+      "name": "摄影记者",
+      "credit": {"min": 10,"max": 30},
+      "cAttr": "教育*4",
+      "skills":[{"name": "摄影"},{"name": "攀爬"},{"name": "语言"},{"name": "化学"},{"name": "心理学"},{"name": "社交"},{"name": "任意"},{"name": "任意"}]
+    },
+    {
+      "index": 85,
+      "name": "飞行员",
+      "credit": {"min": 20,"max": 70},
+      "cAttr": "教育*2+敏捷*2",
+      "skills":[{"name": "电气维修"},{"name": "机械维修"},{"name": "重机操作"},{"name": "飞行器"},{"name": "导航"},{"name": "天文学"},{"name": "任意"},{"name": "任意"}]
+    },
+    {
+      "index": 86,
+      "name": "特技飞行员",
+      "credit": {"min": 30,"max": 60},
+      "cAttr": "教育*4",
+      "skills":[{"name": "会计"},{"name": "电气维修"},{"name": "聆听"},{"name": "机械维修"},{"name": "导航"},{"name": "侦查"},{"name": "飞行器"},{"name": "任意"}]
+    },
+    {
+      "index": 87,
+      "name": "警探",
+      "credit": {"min": 20,"max": 50},
+      "cAttr": "教育*2+力量*2/敏捷*2",
+      "skills":[{"name": "乔装"},{"name": "射击"},{"name": "法律"},{"name": "聆听"},{"name": "心理学"},{"name": "侦查"},{"name": "社交"},{"name": "任意"}]
+    },
+    {
+      "index": 88,
+      "name": "巡警",
+      "credit": {"min": 9,"max": 30},
+      "cAttr": "教育*2+力量*2/敏捷*2",
+      "skills":[{"name": "射击"},{"name": "斗殴"},{"name": "急救"},{"name": "法律"},{"name": "心理学"},{"name": "侦查"},{"name": "汽车驾驶"},{"name": "社交"}]
+    },
+    {
+      "index": 89,
+      "name": "私家侦探",
+      "credit": {"min": 9,"max": 30},
+      "cAttr": "教育*2+力量*2/敏捷*2",
+      "skills":[{"name": "摄影"},{"name": "乔装"},{"name": "法律"},{"name": "图书馆"},{"name": "心理学"},{"name": "侦查"},{"name": "社交"},{"name": "任意"}]
+    },
+    {
+      "index": 90,
+      "name": "教授",
+      "credit": {"min": 20,"max": 70},
+      "cAttr": "教育*4",
+      "skills":[{"name": "图书馆"},{"name": "语言"},{"name": "母语"},{"name": "心理学"},{"name": "任意"},{"name": "任意"},{"name": "任意"},{"name": "任意"}]
+    },
+    {
+      "index": 91,
+      "name": "淘金客",
+      "credit": {"min": 0,"max": 10},
+      "cAttr": "教育*2+力量*2/敏捷*2",
+      "skills":[{"name": "攀爬"},{"name": "急救"},{"name": "历史"},{"name": "机械维修"},{"name": "导航"},{"name": "侦查"},{"name": "地质学"},{"name": "任意"}]
+    },
+    {
+      "index": 92,
+      "name": "性工作者",
+      "credit": {"min": 5,"max": 50},
+      "cAttr": "教育*2+外貌*2",
+      "skills":[{"name": "闪避"},{"name": "巧手"},{"name": "潜行"},{"name": "心理学"},{"name": "技艺"},{"name": "社交"},{"name": "社交"},{"name": "任意"}]
+    },
+    {
+      "index": 93,
+      "name": "精神病学家",
+      "credit": {"min": 30,"max": 80},
+      "cAttr": "教育*4",
+      "skills":[{"name": "语言"},{"name": "聆听"},{"name": "医学"},{"name": "说服"},{"name": "心理学"},{"name": "精神分析"},{"name": "生物学"},{"name": "化学"}]
+    },
+    {
+      "index": 94,
+      "name": "精神分析学家",
+      "credit": {"min": 10,"max": 40},
+      "cAttr": "教育*4",
+      "skills":[{"name": "会计"},{"name": "图书馆"},{"name": "聆听"},{"name": "说服"},{"name": "心理学"},{"name": "精神分析"},{"name": "任意"},{"name": "任意"}]
+    },
+    {
+      "index": 95,
+      "name": "研究员",
+      "credit": {"min": 9,"max": 30},
+      "cAttr": "教育*4",
+      "skills":[{"name": "历史"},{"name": "图书馆"},{"name": "语言"},{"name": "侦查"},{"name": "社交"},{"name": "任意"},{"name": "任意"},{"name": "任意"}]
+    },
+    {
+      "index": 96,
+      "name": "军舰海员",
+      "credit": {"min": 9,"max": 30},
+      "cAttr": "教育*4",
+      "skills":[{"name": "机械维修"},{"name": "格斗"},{"name": "射击"},{"name": "急救"},{"name": "导航"},{"name": "船只驾驶"},{"name": "海洋"},{"name": "游泳"}]
+    },
+    {
+      "index": 97,
+      "name": "民船海员",
+      "credit": {"min": 20,"max": 40},
+      "cAttr": "教育*4",
+      "skills":[{"name": "急救"},{"name": "机械维修"},{"name": "博物学"},{"name": "导航"},{"name": "船只驾驶"},{"name": "侦查"},{"name": "游泳"},{"name": "社交"}]
+    },
+    {
+      "index": 98,
+      "name": "推销员",
+      "credit": {"min": 9,"max": 40},
+      "cAttr": "教育*2+外貌*2",
+      "skills":[{"name": "会计"},{"name": "汽车驾驶"},{"name": "聆听"},{"name": "潜行"},{"name": "心理学"},{"name": "社交"},{"name": "社交"},{"name": "任意"}]
+    },
+    {
+      "index": 99,
+      "name": "科学家",
+      "credit": {"min": 9,"max": 50},
+      "cAttr": "教育*4",
+      "skills":[{"name": "图书馆"},{"name": "语言"},{"name": "母语"},{"name": "侦查"},{"name": "社交"},{"name": "科学"},{"name": "科学"},{"name": "科学"}]
+    },
+    {
+      "index": 100,
+      "name": "秘书",
+      "credit": {"min": 9,"max": 30},
+      "cAttr": "教育*2+外貌*2/敏捷*2",
+      "skills":[{"name": "会计"},{"name": "速记"},{"name": "母语"},{"name": "电脑"},{"name": "心理学"},{"name": "社交"},{"name": "社交"},{"name": "任意"}]
+    },
+    {
+      "index": 101,
+      "name": "店老板",
+      "credit": {"min": 20,"max": 40},
+      "cAttr": "教育*2+外貌*2/敏捷*2",
+      "skills":[{"name": "会计"},{"name": "电气维修"},{"name": "聆听"},{"name": "机械维修"},{"name": "心理学"},{"name": "侦查"},{"name": "社交"},{"name": "社交"}]
+    },
+    {
+      "index": 102,
+      "name": "士兵",
+      "credit": {"min": 9,"max": 30},
+      "cAttr": "教育*2+力量*2/敏捷*2",
+      "skills":[{"name": "闪避"},{"name": "攀爬"},{"name": "格斗"},{"name": "射击"},{"name": "潜行"},{"name": "急救"},{"name": "机械维修"},{"name": "生存"}]
+    },
+    {
+      "index": 103,
+      "name": "间谍",
+      "credit": {"min": 20,"max": 60},
+      "cAttr": "教育*2+外貌*2/敏捷*2",
+      "skills":[{"name": "乔装"},{"name": "射击"},{"name": "聆听"},{"name": "语言"},{"name": "心理学"},{"name": "巧手"},{"name": "潜行"},{"name": "社交"}]
+    },
+    {
+      "index": 104,
+      "name": "学生",
+      "credit": {"min": 5,"max": 10},
+      "cAttr": "教育*4",
+      "skills":[{"name": "语言"},{"name": "图书馆"},{"name": "聆听"},{"name": "任意"},{"name": "任意"},{"name": "任意"},{"name": "任意"},{"name": "任意"}]
+    },
+    {
+      "index": 105,
+      "name": "替身演员",
+      "credit": {"min": 10,"max": 50},
+      "cAttr": "教育*2+力量*2/敏捷*2",
+      "skills":[{"name": "闪避"},{"name": "攀爬"},{"name": "机械维修"},{"name": "跳跃"},{"name": "格斗"},{"name": "急救"},{"name": "游泳"},{"name": "汽车驾驶"}]
+    },
+    {
+      "index": 106,
+      "name": "部落成员",
+      "credit": {"min": 0,"max": 15},
+      "cAttr": "教育*2+力量*2/敏捷*2",
+      "skills":[{"name": "攀爬"},{"name": "格斗"},{"name": "聆听"},{"name": "博物学"},{"name": "神秘学"},{"name": "侦查"},{"name": "游泳"},{"name": "生存"}]
+    },
+    {
+      "index": 107,
+      "name": "殡葬师",
+      "credit": {"min": 20,"max": 40},
+      "cAttr": "教育*4",
+      "skills":[{"name": "会计"},{"name": "汽车驾驶"},{"name": "历史"},{"name": "神秘学"},{"name": "心理学"},{"name": "生物学"},{"name": "化学"},{"name": "社交"}]
+    },
+    {
+      "index": 108,
+      "name": "工会活动家",
+      "credit": {"min": 5,"max": 50},
+      "cAttr": "教育*4",
+      "skills":[{"name": "会计"},{"name": "斗殴"},{"name": "法律"},{"name": "聆听"},{"name": "心理学"},{"name": "重机操作"},{"name": "社交"},{"name": "社交"}]
+    },
+    {
+      "index": 109,
+      "name": "服务生",
+      "credit": {"min": 9,"max": 20},
+      "cAttr": "教育*2+外貌*2/敏捷*2",
+      "skills":[{"name": "会计"},{"name": "闪避"},{"name": "聆听"},{"name": "心理学"},{"name": "技艺"},{"name": "社交"},{"name": "社交"},{"name": "任意"}]
+    },
+    {
+      "index": 110,
+      "name": "职员",
+      "credit": {"min": 9,"max": 20},
+      "cAttr": "教育*4",
+      "skills":[{"name": "会计"},{"name": "语言"},{"name": "法律"},{"name": "电脑"},{"name": "聆听"},{"name": "社交"},{"name": "任意"},{"name": "任意"}]
+    },
+    {
+      "index": 111,
+      "name": "高管",
+      "credit": {"min": 20,"max": 80},
+      "cAttr": "教育*4",
+      "skills":[{"name": "会计"},{"name": "语言"},{"name": "法律"},{"name": "心理学"},{"name": "社交"},{"name": "社交"},{"name": "任意"},{"name": "任意"}]
+    },
+    {
+      "index": 112,
+      "name": "狂热者",
+      "credit": {"min": 0,"max": 30},
+      "cAttr": "教育*2+外貌*2/意志*2",
+      "skills":[{"name": "历史"},{"name": "心理学"},{"name": "潜行"},{"name": "社交"},{"name": "社交"},{"name": "任意"},{"name": "任意"},{"name": "任意"}]
+    },
+    {
+      "index": 113,
+      "name": "饲养员",
+      "credit": {"min": 9,"max": 40},
+      "cAttr": "教育*4",
+      "skills":[{"name": "驯养"},{"name": "会计"},{"name": "闪避"},{"name": "急救"},{"name": "博物学"},{"name": "医学"},{"name": "药学"},{"name": "动物学"}]
+    }
+  ]
+}
